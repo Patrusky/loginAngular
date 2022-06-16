@@ -1,7 +1,7 @@
 # LoginAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
-He deacargado este código de la sieguiente url https://jasonwatmore.com/post/2019/06/22/angular-8-jwt-authentication-example-tutorial para poder prácticar y estudiar el login. Por ahora lo he podido realizar han sido cambios para poder adaptarlo a Angular 13 ya que daba muchos errores, aún quedan un par por solucionar. Mi intención es poder adaptarlo a un futuro proyecto que tengo en mente.
+He descargado este código de la siguiente url https://jasonwatmore.com/post/2019/06/22/angular-8-jwt-authentication-example-tutorial para poder prácticar y estudiar el login. Por ahora lo que he podido realizar han sido cambios para adaptarlo a Angular 13 ya que daba muchos errores, aún quedan un par por solucionar. Mi intención es adaptarlo para un futuro proyecto que tengo en mente.
 
 ## Development server
 
